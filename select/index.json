@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "スノードーム - Snow Globe",
+  "base_artist": "Yuika",
+  "createdAt": "2026-02-10T16:39:43.934427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スノードーム",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_スノードーム_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スノードーム",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_スノードーム_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スノードーム",
+      "artist": "三代目 J Soul Brothers from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/03_スノードーム_三代目_J_Soul_Brothers_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スノードーム",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_スノードーム_『ユイカ』.txt"
+    }
+  ]
+}
